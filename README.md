@@ -91,7 +91,7 @@ void loop()
   }
 }
 ### OUTPUT:
-![OUTPUT](./SERVO.png)
+![OUTPUT](./SERVO.jpeg)
  
 
 
