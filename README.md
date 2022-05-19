@@ -90,6 +90,7 @@ void loop()
     delay(15);
   }
 }
+```
 ### OUTPUT:
 ![OUTPUT](./SERVO.jpeg)
  
